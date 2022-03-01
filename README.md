@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**jaeyoung0509/jaeyoung0509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##   Hi  I am👋  
+> *  I am backend enginner 🌱
+ who love python and go 
+> * I am studying  to make good code  , even if it's just one line of code.
 
-Here are some ideas to get you started:
+## These days 
+* I’m currently learning `Python` and `Golang` based on OOP(SOLID)
+   I fell in love with its simultaneity and duck typing😂
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Also , I am learning message queue
+## 💬 Contracts 
+* `jaeyoung0509@naver.com`
